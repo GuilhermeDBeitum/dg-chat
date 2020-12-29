@@ -1,4 +1,4 @@
-# newvue01
+# DGPRIVATECHAT
 
 ## Project setup
 ```
