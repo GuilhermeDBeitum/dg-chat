@@ -1,4 +1,4 @@
-# DGPRIVATECHAT
+# DG PRIVATE CHAT
 
 ## Project setup
 ```
