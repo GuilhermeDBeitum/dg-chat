@@ -58,7 +58,6 @@
       absolute
       top
       multi-line
-      app
       vertical
       tag
       hide-details
