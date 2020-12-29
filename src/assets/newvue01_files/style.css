@@ -1,0 +1,15 @@
+a {
+  text-decoration: none;
+}
+.toolbar {
+  width: "100";
+}
+
+.v-card--reveal {
+  align-items: center;
+  bottom: 0;
+  justify-content: center;
+  opacity: 0.5;
+  position: absolute;
+  width: 100%;
+}
